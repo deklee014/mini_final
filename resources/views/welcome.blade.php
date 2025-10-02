@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Aku nah tido
+    สวัสดี<
 </body>
 </html>
