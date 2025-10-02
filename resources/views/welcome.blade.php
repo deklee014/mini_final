@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <h1>สวัสดี</h1>
+=======
+    Aku nah tido
+>>>>>>> fe274ce6e31c74212043e22d1aa78113880a0704
 </body>
 </html>
